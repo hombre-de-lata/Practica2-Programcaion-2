@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contactenos</string>
+    <string name="txt_mail">E-Mail</string>
+    <string name="txt_telefono">Telefono</string>
+    <string name="txt_mensaje">Mensaje</string>
+    <string name="botonGuardar">Guardar</string>
+    <string name="botonBuscar">Buscar E-Mail</string>
+
+</resources>
